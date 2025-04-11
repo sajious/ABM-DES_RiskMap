@@ -1,7 +1,5 @@
 # RiskMAPX v1 - Agent-Based & Discrete-Event Simulation for Risk Management
 
----
-
 ## Overview
 
 **RiskMAPX v1** is an advanced simulation model developed using **AnyLogic**, designed for in-depth analysis and optimization of risk management within intricate systems.  This project uniquely integrates both Agent-Based Modeling (ABM) and Discrete-Event Simulation (DES) methodologies to dynamically simulate threats, tasks, assets, objectives, and countermeasures. It leverages graph-based modeling to capture real-time interactions, providing stakeholders with actionable insights for strategic decision-making in uncertain environments. This model is particularly useful for understanding complex system behaviors and testing risk mitigation strategies in a virtual setting before real-world implementation.  The use of XML for configuration and parameterization enhances the model's flexibility and adaptability.
