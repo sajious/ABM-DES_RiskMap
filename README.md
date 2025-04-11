@@ -102,8 +102,6 @@ Contributors
 
     Parmida Jamgohari: Key contributor in AnyLogic model development and implementation.
 
-    Giving credit to supervisors and contributors acknowledges their valuable input. EVERHOUR.COM
-
 
 Contact
 
