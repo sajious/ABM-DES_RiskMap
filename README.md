@@ -35,7 +35,6 @@ This project aims to provide a robust and flexible framework for risk assessment
 
 ## Screenshots
 
-> *Screenshots provide a visual preview of the project and are particularly helpful for showcasing the user interface or simulation outputs.* <cite>https://dev.to/saurabhnative/10-useful-sections-to-improve-your-github-readme-files-3hgj</cite>
 
 ---
 
