@@ -23,14 +23,6 @@ This project aims to provide a robust and flexible framework for risk assessment
     - Urgency Weight (`W_RR_A`): Default `0.5`.
 - **Dynamic Data Structures**: Utilizes `LinkedHashSet` collections (`AllThreats`, `AllAssets`, `AllTasks`, `AllMissionObjectives`, `AllCountermeasures`) for efficient management of simulation entities.
 
-### Simulation Environment
-- **Continuous 2D Space**:  Simulates within a 500x500 meter continuous space, allowing for spatial interaction of agents.
-- **Predefined Connectors**: Employs connectors for structured communication between key simulation elements like `Sources`, `Objectives`, and `Sinks`.
-- **GIS Map Integration**: Capable of integrating GIS tile maps to enhance spatial realism and context within simulations. <cite>https://www.anylogic.com/resources/educational-videos/linking-maps-and-simulation/</cite> (Although not explicitly used in `RiskMAPX v1.alp` as described, AnyLogic's capability is noted for potential future enhancements.)
-
-### Operational Features
-- **Scenario Injection**: Utilizes `runSimulation()` method alongside injection triggers (e.g., `source1.inject(1)`) for dynamic scenario execution and testing of specific events.
-
 ---
 
 ## Screenshots
@@ -46,7 +38,6 @@ This project aims to provide a robust and flexible framework for risk assessment
 - **ALP**: For project file structure and potentially for data input and output. <cite>https://florianhuebler.com/xml-for-anylogic/</cite>
 - **Java**: Underlying programming language within AnyLogic, used for advanced model customization. <cite>https://anylogic.help/</cite>
 
-> *Listing technologies helps developers understand the project's technical stack.* <cite>https://dev.to/saurabhnative/10-useful-sections-to-improve-your-github-readme-files-3hgj</cite>
 
 ---
 
@@ -56,13 +47,6 @@ This project aims to provide a robust and flexible framework for risk assessment
 1. **AnyLogic Software**: Ensure you have **AnyLogic version 8.9.3 or later** installed on your system. You can download it from [AnyLogic Website](https://www.anylogic.com/).
 2. **Basic AnyLogic Knowledge**: Familiarity with AnyLogic interface, simulation setup, and model execution is recommended. Tutorials are available at [AnyLogic Tutorials](https://anylogic.help/). <cite>https://anylogic.help/</cite>
 
-Advanced Settings
-
-    Environment Dimensions: The simulation space dimensions (default 500x500 meters) can be modified within the AnyLogic Main agent properties.
-    Agent Properties: Velocity, initial positions, and other agent-specific parameters are configurable within their respective agent type definitions.
-    Simulation Runtime: Simulation duration and speed can be adjusted in the Run Configurations before execution.
-
-    Detailed configuration information allows users to tailor the project to their specific needs.
 
 Project Status
 
@@ -86,8 +70,6 @@ Contributions are welcome! If you’d like to contribute to RiskMAPX v1, please 
     Make your changes and ensure they are well-documented.
     Submit a pull request with a clear description of your changes.
 
-    Providing contribution guidelines encourages community involvement. DEV.TO , EVERHOUR.COM
-
 Supervisors & Contributors
 Supervisors
 
@@ -100,7 +82,6 @@ This project was guided by:
 Contributors
 
     Parmida Jamgohari: Key contributor in AnyLogic model development and implementation.
-
 
 Contact
 
