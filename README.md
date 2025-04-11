@@ -1,20 +1,5 @@
 # RiskMAPX v1 - Agent-Based & Discrete-Event Simulation for Risk Management
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Project Demo](#project-demo)
-4. [Screenshots](#screenshots)
-5. [Technologies Used](#technologies-used)
-6. [Installation & Usage](#installation--usage)
-7. [Configuration](#configuration)
-8. [Project Status](#project-status)
-9. [Contributing](#contributing)
-10. [Supervisors & Contributors](#supervisors--contributors)
-11. [License](#license)
-12. [Contact](#contact)
-13. [Sources](#sources)
-
 ---
 
 ## Overview
