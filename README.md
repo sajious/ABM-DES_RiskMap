@@ -55,7 +55,7 @@ Supervisors
 This project was guided by:
 
     Dr. Babak Sadeghiyan
-    Dr. Motahareh Dehghan
+    Dr. Motahareh Dehghan Chachkami
     Dr. Alireza Hashemi Golpayegani
 
 Contributors
