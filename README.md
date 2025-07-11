@@ -8,25 +8,6 @@ This project aims to provide a robust and flexible framework for risk assessment
 
 ---
 
-## Features
-
-### Core Simulation Capabilities
-- **Hybrid Simulation Approach**: Integrates Agent-Based Modeling for entity interactions and Discrete-Event Simulation for process flow, providing a comprehensive system view.
-- **Dynamic Entity Modeling**: Simulates `Threats`, `Objectives`, `Assets`, `Tasks`, and `Countermeasures` as interactive agents within a dynamic environment.
-- **Customizable Risk Parameters**:
-  - **Budget Constraint**:  `MaxBudget` parameter to define the maximum budget available for countermeasure deployment (default: 5000 units).
-  - **Risk Prioritization Weights**:  Adjustable weights for risk factors:
-    - Cost Weight (`W_RR_C`): Default `0.1`.
-    - Importance Weight (`W_RR_I`): Default `0.4`.
-    - Urgency Weight (`W_RR_A`): Default `0.5`.
-- **Dynamic Data Structures**: Utilizes `LinkedHashSet` collections (`AllThreats`, `AllAssets`, `AllTasks`, `AllMissionObjectives`, `AllCountermeasures`) for efficient management of simulation entities.
-
----
-
-## Screenshots
-
-
----
 
 ## Technologies Used
 
